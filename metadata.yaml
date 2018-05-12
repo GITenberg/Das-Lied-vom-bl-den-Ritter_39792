@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1049
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39792#Das-Lied-vom-bl-den-Ritter
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-05-25'
 gutenberg_type: Text
